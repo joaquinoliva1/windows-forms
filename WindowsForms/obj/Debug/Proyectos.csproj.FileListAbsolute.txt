@@ -1,0 +1,16 @@
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\Proyectos.exe.config
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\Proyectos.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\Proyectos.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.frmInicio.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.Properties.Resources.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.frmSemestre1.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.frmSemestre2.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\Proyectos.exe.manifest
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\Proyectos.application
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.exe.manifest
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\obj\Debug\Proyectos.application

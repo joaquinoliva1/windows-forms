@@ -1,0 +1,10 @@
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\bin\Debug\semestre.exe.config
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\bin\Debug\semestre.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\bin\Debug\semestre.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\obj\Debug\prySemestre.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\obj\Debug\semestre.Form1.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\obj\Debug\semestre.Properties.Resources.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\obj\Debug\prySemestre.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\obj\Debug\prySemestre.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\obj\Debug\semestre.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto4\semestre\obj\Debug\semestre.pdb

@@ -1,0 +1,32 @@
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\bin\Debug\PryNewLogistic.exe.config
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\bin\Debug\PryNewLogistic.exe
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\bin\Debug\PryNewLogistic.pdb
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.Properties.Resources.resources
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.exe
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.pdb
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.frmInicio.resources
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.frmRegistro.resources
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.frmVehiculo.resources
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.frmPlanificar.resources
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.frmParadas.resources
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.frmEntregas.resources
+C:\Users\joacc\Escritorio\Joaquin OIiva\PryNewLogistic\PryNewLogistic\obj\Debug\PryNewLogistic.frmAtencion.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\bin\Debug\PryNewLogistic.exe.config
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\bin\Debug\PryNewLogistic.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\bin\Debug\PryNewLogistic.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\pryNewLogistic.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.frmAtencion.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.frmEntregas.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.frmInicio.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.frmRegistro.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.frmVehiculo.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.frmPlanificar.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.frmParadas.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.Properties.Resources.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\pryNewLogistic.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\pryNewLogistic.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial1\gestion_logistica\obj\Debug\PryNewLogistic.pdb

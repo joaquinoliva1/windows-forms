@@ -1,0 +1,17 @@
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\bin\Debug\proyecto1.exe.config
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\bin\Debug\proyecto1.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\bin\Debug\proyecto1.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\bin\Debug\ExcelDataReader.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\bin\Debug\ExcelDataReader.xml
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\pryFinal.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\pryFinal.csproj.ResolveComReference.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\proyecto1.frmHorarios.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\proyecto1.frmInicio.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\proyecto1.Properties.Resources.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\pryFinal.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\pryFinal.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\pryFinal.csproj.Up2Date
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\proyecto1.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\parcial2\final\obj\Debug\proyecto1.pdb

@@ -1,0 +1,16 @@
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\bin\Debug\net8.0-windows\PryTiendaDeRopa.exe
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\bin\Debug\net8.0-windows\PryTiendaDeRopa.deps.json
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\bin\Debug\net8.0-windows\PryTiendaDeRopa.runtimeconfig.json
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\bin\Debug\net8.0-windows\PryTiendaDeRopa.dll
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\bin\Debug\net8.0-windows\PryTiendaDeRopa.pdb
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.Form1.resources
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.AssemblyInfoInputs.cache
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.AssemblyInfo.cs
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.dll
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\refint\PryTiendaDeRopa.dll
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.pdb
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\PryTiendaDeRopa.genruntimeconfig.cache
+C:\Users\joacc\Escritorio\ejercicio1\PryTiendaDeRopa\PryTiendaDeRopa\obj\Debug\net8.0-windows\ref\PryTiendaDeRopa.dll

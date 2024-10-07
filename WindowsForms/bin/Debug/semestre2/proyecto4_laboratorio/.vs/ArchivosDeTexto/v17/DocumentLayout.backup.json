@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F97857-123D-4823-A8AA-BC325A417B88}|ArchivosDeTexto\\ArchivosDeTexto.csproj|c:\\users\\joacc\\escritorio\\proyecto4_laboratorio\\archivosdetexto\\clsarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F97857-123D-4823-A8AA-BC325A417B88}|ArchivosDeTexto\\ArchivosDeTexto.csproj|solutionrelative:archivosdetexto\\clsarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F97857-123D-4823-A8AA-BC325A417B88}|ArchivosDeTexto\\ArchivosDeTexto.csproj|C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\archivosdetexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F97857-123D-4823-A8AA-BC325A417B88}|ArchivosDeTexto\\ArchivosDeTexto.csproj|solutionrelative:archivosdetexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F97857-123D-4823-A8AA-BC325A417B88}|ArchivosDeTexto\\ArchivosDeTexto.csproj|C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\archivosdetexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F97857-123D-4823-A8AA-BC325A417B88}|ArchivosDeTexto\\ArchivosDeTexto.csproj|solutionrelative:archivosdetexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\ArchivosDeTexto\\Form1.cs",
+              "RelativeDocumentMoniker": "ArchivosDeTexto\\Form1.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\ArchivosDeTexto\\Form1.cs",
+              "RelativeToolTip": "ArchivosDeTexto\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:56:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\ArchivosDeTexto\\clsArchivo.cs",
+              "RelativeDocumentMoniker": "ArchivosDeTexto\\clsArchivo.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\ArchivosDeTexto\\clsArchivo.cs",
+              "RelativeToolTip": "ArchivosDeTexto\\clsArchivo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:03:00.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\ArchivosDeTexto\\Form1.cs",
+              "RelativeDocumentMoniker": "ArchivosDeTexto\\Form1.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\proyecto4_laboratorio\\ArchivosDeTexto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ArchivosDeTexto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:51:44.732Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

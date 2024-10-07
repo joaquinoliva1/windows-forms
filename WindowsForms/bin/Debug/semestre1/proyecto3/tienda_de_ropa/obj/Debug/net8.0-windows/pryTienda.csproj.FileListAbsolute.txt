@@ -1,0 +1,16 @@
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\bin\Debug\net8.0-windows\pryTienda.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\bin\Debug\net8.0-windows\pryTienda.deps.json
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\bin\Debug\net8.0-windows\pryTienda.runtimeconfig.json
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\bin\Debug\net8.0-windows\pryTienda.dll
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\bin\Debug\net8.0-windows\pryTienda.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\PryTiendaDeRopa.Form1.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.AssemblyInfoInputs.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.AssemblyInfo.cs
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.dll
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\refint\pryTienda.dll
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\pryTienda.genruntimeconfig.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre1\proyecto3\tienda_de_ropa\obj\Debug\net8.0-windows\ref\pryTienda.dll

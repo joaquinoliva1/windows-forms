@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\WindowsForms\\WindowsForms\\bin\\Debug\\semestre1\\proyecto3\\tienda_de_ropa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F61D339-ACFF-47E4-BA2E-04B27E4B1129}|pryTienda.csproj|c:\\users\\joacc\\escritorio\\windowsforms\\windowsforms\\bin\\debug\\semestre1\\proyecto3\\tienda_de_ropa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F61D339-ACFF-47E4-BA2E-04B27E4B1129}|pryTienda.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\WindowsForms\\WindowsForms\\bin\\Debug\\semestre1\\proyecto3\\tienda_de_ropa\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\WindowsForms\\WindowsForms\\bin\\Debug\\semestre1\\proyecto3\\tienda_de_ropa\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:55:37.882Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

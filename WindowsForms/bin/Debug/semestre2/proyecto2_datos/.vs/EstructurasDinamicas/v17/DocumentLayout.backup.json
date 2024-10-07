@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas\\EstructurasDinamicas.csproj|c:\\users\\joacc\\escritorio\\estructurasdinamicas\\estructurasdinamicas\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas\\EstructurasDinamicas.csproj|solutionrelative:estructurasdinamicas\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas\\EstructurasDinamicas.csproj|C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\estructurasdinamicas\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas\\EstructurasDinamicas.csproj|solutionrelative:estructurasdinamicas\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas\\EstructurasDinamicas.csproj|C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\estructurasdinamicas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas\\EstructurasDinamicas.csproj|solutionrelative:estructurasdinamicas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\EstructurasDinamicas\\Nodo.cs",
+              "RelativeDocumentMoniker": "EstructurasDinamicas\\Nodo.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\EstructurasDinamicas\\Nodo.cs",
+              "RelativeToolTip": "EstructurasDinamicas\\Nodo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:22:07.77Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\EstructurasDinamicas\\frmInicio.cs",
+              "RelativeDocumentMoniker": "EstructurasDinamicas\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\EstructurasDinamicas\\frmInicio.cs",
+              "RelativeToolTip": "EstructurasDinamicas\\frmInicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\EstructurasDinamicas\\frmInicio.cs",
+              "RelativeDocumentMoniker": "EstructurasDinamicas\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\EstructurasDinamicas\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EstructurasDinamicas\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:06.63Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

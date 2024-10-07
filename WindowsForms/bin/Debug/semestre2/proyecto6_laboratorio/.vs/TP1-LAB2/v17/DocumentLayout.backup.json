@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\tp1-lab2\\datosglobales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\datosglobales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\tp1-lab2\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\tp1-lab2\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\tp1-lab2\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\tp1-lab2\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frmagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\tp1-lab2\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\tp1-lab2\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|c:\\users\\joacc\\escritorio\\tp1-lab2\\tp1-lab2\\frmconsultarvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frmconsultarvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|c:\\users\\joacc\\escritorio\\tp1-lab2\\tp1-lab2\\frmconsultarvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{405C81CD-6514-4B43-8934-2E93396F9095}|TP1-LAB2\\TP1-LAB2.csproj|solutionrelative:tp1-lab2\\frmconsultarvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosGlobales.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\DatosGlobales.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\DatosGlobales.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\DatosGlobales.cs",
+              "RelativeToolTip": "TP1-LAB2\\DatosGlobales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:56:25.749Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmConsultarVendedor.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmConsultarVendedor.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmConsultarVendedor.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmConsultarVendedor.cs",
+              "RelativeToolTip": "TP1-LAB2\\frmConsultarVendedor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:01:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListado.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmListado.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmListado.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmListado.cs",
+              "RelativeToolTip": "TP1-LAB2\\frmListado.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:07:39.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmListado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmListado.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmListado.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmListado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP1-LAB2\\frmListado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:12:16.349Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAgregar.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmAgregar.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmAgregar.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmAgregar.cs*",
+              "RelativeToolTip": "TP1-LAB2\\frmAgregar.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T01:58:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAgregar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmAgregar.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmAgregar.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmAgregar.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "TP1-LAB2\\frmAgregar.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:09:41.65Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmConsultarVendedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmConsultarVendedor.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmConsultarVendedor.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmConsultarVendedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP1-LAB2\\frmConsultarVendedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:34:23.999Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmInicio.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmInicio.cs*",
+              "RelativeToolTip": "TP1-LAB2\\frmInicio.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:06:19.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmInicio.cs",
+              "RelativeDocumentMoniker": "TP1-LAB2\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\TP1-LAB2\\TP1-LAB2\\frmInicio.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "TP1-LAB2\\frmInicio.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:44:26.147Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

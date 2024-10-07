@@ -1,0 +1,30 @@
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryTP1.Form1.resources
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryTP1.Properties.Resources.resources
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryTP1.exe
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryTP1.pdb
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\bin\Debug\PryTP1.exe.config
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\bin\Debug\PryTP1.exe
+C:\Users\joacc\Escritorio\PryTP1\PryTP1\bin\Debug\PryTP1.pdb
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\bin\Debug\PryTP1.exe.config
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\bin\Debug\PryTP1.exe
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\bin\Debug\PryTP1.pdb
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\obj\Debug\PryTP1.Form1.resources
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\obj\Debug\PryTP1.Properties.Resources.resources
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\obj\Debug\PryTP1.exe
+C:\Users\joacc\Escritorio\Datos - TP1\PryTP1\obj\Debug\PryTP1.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\bin\Debug\PryTP1.exe.config
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\bin\Debug\PryTP1.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\bin\Debug\PryTP1.pdb
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\obj\Debug\PryClaseCuatro.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\obj\Debug\PryTP1.Form1.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\obj\Debug\PryTP1.Properties.Resources.resources
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\obj\Debug\PryClaseCuatro.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\obj\Debug\PryClaseCuatro.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\obj\Debug\PryTP1.exe
+C:\Users\joacc\Escritorio\WindowsForms\WindowsForms\bin\Debug\semestre2\proyecto1_datos\PryTP1\obj\Debug\PryTP1.pdb
