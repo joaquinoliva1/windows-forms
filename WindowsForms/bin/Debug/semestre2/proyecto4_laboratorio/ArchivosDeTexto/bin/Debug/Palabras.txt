@@ -1,4 +1,0 @@
-LISTA DE DATOS
-Dato1
-Dato2
-Dato3

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\PryTP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|c:\\users\\joacc\\escritorio\\prytp1\\prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|solutionrelative:prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|c:\\users\\joacc\\escritorio\\prytp1\\prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|solutionrelative:prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|c:\\users\\joacc\\escritorio\\prytp1\\prytp1\\clasecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|solutionrelative:prytp1\\clasecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|c:\\users\\joacc\\escritorio\\prytp1\\prytp1\\clasepersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|solutionrelative:prytp1\\clasepersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClasePersona.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\ClasePersona.cs",
+              "RelativeDocumentMoniker": "PryTP1\\ClasePersona.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\ClasePersona.cs",
+              "RelativeToolTip": "PryTP1\\ClasePersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:47:57.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaseCliente.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\ClaseCliente.cs",
+              "RelativeDocumentMoniker": "PryTP1\\ClaseCliente.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\ClaseCliente.cs",
+              "RelativeToolTip": "PryTP1\\ClaseCliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:47:15.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\Form1.cs",
+              "RelativeDocumentMoniker": "PryTP1\\Form1.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PryTP1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:47:06.965Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\Form1.cs",
+              "RelativeDocumentMoniker": "PryTP1\\Form1.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\PryTP1\\PryTP1\\Form1.cs",
+              "RelativeToolTip": "PryTP1\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:57:47.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

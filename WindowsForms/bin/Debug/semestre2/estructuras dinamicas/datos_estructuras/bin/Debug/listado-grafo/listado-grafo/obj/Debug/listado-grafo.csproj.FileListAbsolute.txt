@@ -1,0 +1,10 @@
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\bin\Debug\listado-grafo.exe.config
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\bin\Debug\listado-grafo.exe
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\bin\Debug\listado-grafo.pdb
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\obj\Debug\listado-grafo.csproj.AssemblyReference.cache
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\obj\Debug\listado_grafo.Form1.resources
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\obj\Debug\listado_grafo.Properties.Resources.resources
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\obj\Debug\listado-grafo.csproj.GenerateResource.cache
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\obj\Debug\listado-grafo.csproj.CoreCompileInputs.cache
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\obj\Debug\listado-grafo.exe
+C:\Users\joacc\Escritorio\EstructurasDinamicas\bin\Debug\listado-grafo\listado-grafo\obj\Debug\listado-grafo.pdb

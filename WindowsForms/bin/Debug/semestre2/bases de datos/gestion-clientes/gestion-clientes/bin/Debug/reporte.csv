@@ -1,0 +1,108 @@
+﻿Lista de clientes
+
+Código;Nombre;Ciudad;Limite de crédito;Deuda
+1;Ana Pérez;Buenos Aires;34561;10000
+2;Javier González;Rosario;15623;0,0000
+3;María López;Salta;37899;14600
+4;Sergio Torres;Córdoba;48729;15700
+5;Laura Martínez;Mendoza;24567;12800
+6;Carlos Sánchez;San Juan;43218;10900
+7;Elena Castro;La Plata;18645;0,0000
+8;Miguel Fernández;Tucumán;26456;11500
+9;Sofía Romero;Buenos Aires;49876;16200
+10;David Jiménez;Mar del Plata;12458;0,0000
+11;Isabel Díaz;Córdoba;37890;16500
+12;Cristian Ruiz;Santa Fe;37233;12600
+13;Valentina Morales;La Plata;44789;14500
+14;Fernando Herrera;Rosario;23678;18000
+15;Camila Ortega;Salta;45901;11300
+16;Diego Moreno;Tucumán;18963;0,0000
+17;Patricia Vargas;Mendoza;25678;18200
+18;Hugo Rojas;San Juan;50000;11300
+19;Lucía Delgado;Mar del Plata;32012;15500
+20;Alejandro Salazar;Buenos Aires;35567;12100
+21;Nerea Jiménez;Córdoba;27654;11600
+22;Pablo Carrillo;Santa Fe;42345;10100
+23;Carla Medina;Rosario;37890;15500
+24;Samuel Aguirre;Mar del Plata;17456;0,0000
+25;Mónica Pinto;Mendoza;47012;15200
+26;Ricardo Silva;Tucumán;16489;0,0000
+27;Gisela Castro;Salta;34589;11500
+28;Andrés Soto;San Juan;27890;14100
+29;Natalia León;La Plata;22234;13000
+30;Eduardo Pizarro;Buenos Aires;30500;12900
+31;Irina Cabrera;Rosario;47123;12500
+32;Roberto Ortega;Córdoba;19999;10200
+33;Josefina Tomasini;Buenos Aires;30567;20000
+102;Mario Sardelli;Buenos Aires;30000;0,0000
+34;Ximena Cordero;Santa Fe;30123;10000
+35;Alberto Duarte;Mendoza;12000;0,0000
+36;Verónica Ruiz;Tucumán;19788;13900
+37;Julián Aguayo;Mar del Plata;30001;14400
+38;Mariana Salinas;Salta;35678;14200
+39;Luis Ramírez;La Plata;14987;0,0000
+40;Florencia Galindo;San Juan;21000;16100
+41;Marco Gómez;Buenos Aires;28976;12300
+42;Cecilia Espinoza;San Juan;34567;15500
+43;Joaquín Andrade;Córdoba;19876;0,0000
+44;Paulina Zamora;Rosario;40000;19200
+45;Felipe Serrano;Tucumán;49011;10700
+46;Gabriela Suárez;La Plata;45678;17400
+47;Tomás Castañeda;Mar del Plata;28123;15700
+48;Silvia Estrada;Mendoza;25987;15900
+49;Cristina Quintero;Salta;34200;11600
+50;Ignacio Montoya;Santa Fe;10789;0,0000
+51;Leticia Ríos;Buenos Aires;26789;19800
+52;Jorge Salas;Córdoba;38001;17200
+53;Sandra Acosta;Tucumán;41487;19900
+54;Octavio Villalobos;Rosario;19899;13600
+55;Ana Clara Mejía;San Juan;23456;11900
+56;Gabriel Palacios;Santa Fe;15987;0,0000
+57;Silvana Rivas;La Plata;27654;15700
+58;Diana Torres;Salta;38967;19000
+59;Victor Manuel Costa;Mendoza;25001;15000
+60;Luciano Salmerón;Mar del Plata;45123;16600
+61;Angelica Rojas;Buenos Aires;14789;0,0000
+62;Fernando Torres;Córdoba;35601;14500
+63;Adriana Paredes;Rosario;47501;18600
+64;Juan Sebastián Salas;Tucumán;24876;13200
+65;Margarita Calderón;La Plata;38567;17000
+66;Joaquín Martínez;Mar del Plata;15943;0,0000
+67;Lucio Santos;San Juan;42000;18500
+68;Rocío Zambrano;Mendoza;27890;19400
+69;Ramiro Castro;Santa Fe;14567;0,0000
+70;Teresa Aguinaga;Buenos Aires;39012;14900
+71;Diego Barrios;Salta;47987;18200
+72;Marisol Contreras;Córdoba;23145;14000
+73;Nicolás Martínez;Mar del Plata;29999;11100
+74;Estefanía Valenzuela;La Plata;14456;0,0000
+75;Victor Lozano;Tucumán;39999;11100
+76;Cecilia Pineda;Rosario;45001;18700
+77;Rolando Moreira;San Juan;54000;10100
+78;Jessica Palencia;Mendoza;16123;0,0000
+79;Samuel Archila;Buenos Aires;26700;12000
+80;Silvana Díaz;Córdoba;17924;0,0000
+81;Arturo Castillo;Santa Fe;34598;14600
+82;María Isabel Fernández;Salta;39998;17500
+83;Omar Serrano;Rosario;27890;11200
+84;Verónica Cifuentes;Mar del Plata;24580;14300
+85;Nelson Pinto;Mendoza;12890;0,0000
+86;Tamara Quiroz;Tucumán;38900;17700
+87;Rafael Ortega;San Juan;28567;16400
+88;Melanie Padilla;Buenos Aires;33123;11500
+89;Patricio Cuellar;La Plata;19998;0,0000
+90;Gina Valle;Córdoba;24000;16200
+91;Alfonso Medina;Rosario;34000;13500
+92;Raquel Sarmiento;Santa Fe;56780;17100
+93;Elías Cárdenas;Salta;49876;17900
+94;Claudia Marín;Mar del Plata;50500;13400
+95;Juan Carlos Vargas;Tucumán;12500;0,0000
+96;Yolanda Ledesma;Mendoza;10000;0,0000
+97;Manuel Tovar;San Juan;29000;14700
+98;Belén Torres;La Plata;10000;0,0000
+99;Jonathan Herrera;Buenos Aires;18000;0,0000
+100;Verónika Rosales;Rosario;17000;0,0000
+
+Total de clientes:;;;;101
+Total de deuda:;;;;1111200,0000
+Promedio de deuda:;;;;11001,980198019801980198019802

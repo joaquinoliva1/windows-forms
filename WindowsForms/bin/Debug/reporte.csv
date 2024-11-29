@@ -1,0 +1,10 @@
+﻿Lista de clientes
+
+Código;Nombre;Ciudad;Limite de crédito;Deuda
+102;Mario Sardelli;Buenos Aires;30000;0,0000
+61;Angelica Rojas;Buenos Aires;14789;0,0000
+99;Jonathan Herrera;Buenos Aires;18000;0,0000
+
+Total de clientes:;;;;3
+Total de deuda:;;;;0,0000
+Promedio de deuda:;;;;0,0000

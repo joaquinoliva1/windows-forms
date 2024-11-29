@@ -1,0 +1,5 @@
+POO: Propiedad de encapsulamiento
+Arreglos y tipos de datos
+Archivos de texto
+Estructuras dinámicas
+Bases de datos (Access)

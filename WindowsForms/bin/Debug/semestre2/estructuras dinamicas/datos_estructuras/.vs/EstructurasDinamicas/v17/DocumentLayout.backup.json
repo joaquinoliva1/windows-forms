@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas.csproj|c:\\users\\joacc\\escritorio\\estructurasdinamicas\\frmoperacionessql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas.csproj|solutionrelative:frmoperacionessql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas.csproj|C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\clsbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas.csproj|solutionrelative:clsbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas.csproj|C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\frmoperacionessql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D0752DD-14F6-426F-B9AF-734748880FB4}|EstructurasDinamicas.csproj|solutionrelative:frmoperacionessql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsBaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\clsBaseDatos.cs",
+              "RelativeDocumentMoniker": "clsBaseDatos.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\clsBaseDatos.cs",
+              "RelativeToolTip": "clsBaseDatos.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:52:08.884Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOperacionesSql.cs",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\frmOperacionesSql.cs",
+              "RelativeDocumentMoniker": "frmOperacionesSql.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\frmOperacionesSql.cs",
+              "RelativeToolTip": "frmOperacionesSql.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwE8AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:56:32.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmOperacionesSql.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\frmOperacionesSql.cs",
+              "RelativeDocumentMoniker": "frmOperacionesSql.cs",
+              "ToolTip": "C:\\Users\\joacc\\Escritorio\\EstructurasDinamicas\\frmOperacionesSql.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmOperacionesSql.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:33:20.885Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

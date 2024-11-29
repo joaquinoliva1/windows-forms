@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joacc\\Escritorio\\WindowsForms\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\joacc\\source\\repos\\windows-forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92A2D0F-039E-4521-B571-03F90CDEE8E8}|WindowsForms\\Proyectos.csproj|c:\\users\\joacc\\source\\repos\\windows-forms\\windowsforms\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92A2D0F-039E-4521-B571-03F90CDEE8E8}|WindowsForms\\Proyectos.csproj|solutionrelative:windowsforms\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joacc\\source\\repos\\windows-forms\\WindowsForms\\frmInicio.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\frmInicio.cs",
+              "ToolTip": "C:\\Users\\joacc\\source\\repos\\windows-forms\\WindowsForms\\frmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForms\\frmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:07:39.527Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
