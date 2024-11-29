@@ -8,3 +8,13 @@ C:\Users\joacc\Escritorio\PryTP1\PryTP1\obj\Debug\PryTP1.pdb
 C:\Users\joacc\Escritorio\PryTP1\PryTP1\bin\Debug\PryTP1.exe.config
 C:\Users\joacc\Escritorio\PryTP1\PryTP1\bin\Debug\PryTP1.exe
 C:\Users\joacc\Escritorio\PryTP1\PryTP1\bin\Debug\PryTP1.pdb
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\bin\Debug\PryTP1.exe.config
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\bin\Debug\PryTP1.exe
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\bin\Debug\PryTP1.pdb
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.AssemblyReference.cache
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\obj\Debug\PryTP1.Form1.resources
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\obj\Debug\PryTP1.Properties.Resources.resources
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.GenerateResource.cache
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\obj\Debug\PryClaseCuatro.csproj.CoreCompileInputs.cache
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\obj\Debug\PryTP1.exe
+C:\Users\joacc\source\repos\windows-forms\WindowsForms\bin\Debug\semestre2\programacion orientada a objetos\PryTP1\PryTP1\obj\Debug\PryTP1.pdb

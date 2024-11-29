@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\joacc\\source\\repos\\windows-forms\\WindowsForms\\bin\\Debug\\semestre2\\programacion orientada a objetos\\PryTP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|C:\\Users\\joacc\\source\\repos\\windows-forms\\WindowsForms\\bin\\Debug\\semestre2\\programacion orientada a objetos\\PryTP1\\prytp1\\clasecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|c:\\users\\joacc\\source\\repos\\windows-forms\\windowsforms\\bin\\debug\\semestre2\\programacion orientada a objetos\\prytp1\\prytp1\\clasecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|solutionrelative:prytp1\\clasecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|solutionrelative:prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|c:\\users\\joacc\\source\\repos\\windows-forms\\windowsforms\\bin\\debug\\semestre2\\programacion orientada a objetos\\prytp1\\prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|C:\\Users\\joacc\\source\\repos\\windows-forms\\WindowsForms\\bin\\Debug\\semestre2\\programacion orientada a objetos\\PryTP1\\prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20CB8E62-266D-45A2-8C7A-A714A2647C7B}|PryTP1\\PryClaseCuatro.csproj|solutionrelative:prytp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,8 +62,7 @@
               "ToolTip": "C:\\Users\\joacc\\source\\repos\\windows-forms\\WindowsForms\\bin\\Debug\\semestre2\\programacion orientada a objetos\\PryTP1\\PryTP1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "PryTP1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:47:06.965Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-07T01:47:06.965Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "PryTP1\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:57:47.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T16:57:47.622Z"
             }
           ]
         }
